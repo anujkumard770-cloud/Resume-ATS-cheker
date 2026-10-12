@@ -1,0 +1,90 @@
+ANUJ KUMAR DUBEY
+Full-Stack Web Developer
+
+B.Tech in Information Technology | Buddha Institute of Technology (AKTU)
+
+Email: anujkumard770@gmail.com
+Phone: +91-9335696877
+LinkedIn: https://linkedin.com/in/Anujdubey770
+GitHub: https://github.com/anujkumard770-cloud
+
+SUMMARY
+
+Full-Stack Web Developer experienced in building and deploying responsive, database-backed applications with React.js, Next.js, TailwindCSS, MongoDB, PostgreSQL, and NeonDB. Strong collaborator and problem-solver with a track record of self-driven learning and effective communication in team settings. Delivered multiple production-ready web applications with a strong foundation in Data Structures and Operating Systems.
+
+EDUCATION
+
+B.Tech in Information Technology — Buddha Institute of Technology, AKTU
+2024 – 2028
+
+EXPERIENCE
+
+Frontend Development Intern — Gennext IT Management & Consulting
+2026
+
+• Engineered 8+ responsive, reusable frontend components using React.js and TailwindCSS.
+• Made 20+ commits in a 4-dev team via Git/GitHub.
+• Built database-backed features with NeonDB, strengthening full-stack development skills.
+
+PROJECTS
+
+BlogNest — Full-Stack Blogging Platform
+Technologies: Next.js, MongoDB, TailwindCSS, JavaScript, Node.js
+
+• Built a full-stack blogging platform with a Tiptap rich-text editor for content creation.
+• Designed and implemented 6 REST API endpoints for post creation, retrieval, updates, and deletion.
+• Integrated Cloudinary for image uploads, storing image URLs in MongoDB with post data.
+• Developed end-to-end post-management workflows and deployed the app on Vercel.
+
+Next_ToDo — To-Do List Application
+Technologies: Next.js, NeonDB
+
+• Built a full-stack task management app using Next.js with NeonDB for data storage.
+• Implemented task creation, updates, completion, and deletion in a responsive, intuitive UI.
+
+SAMVADAM — Real-Time Chat App (In Progress)
+Technologies: Next.js, Socket.io, MongoDB, TailwindCSS
+
+• Building a real-time chat application with Next.js and Socket.io for instant messaging.
+• Integrating MongoDB to persist user profiles, conversations, and chat messages.
+• Developing a scalable, responsive chat interface in TailwindCSS with live message updates.
+
+Weather Forecast — Weather Forecasting App
+Technologies: React.js, Weather API
+
+• Built a responsive weather app in React.js using a public Weather API for 4,000,000+ locations.
+• Implemented dynamic weather visuals and location-based search for an interactive UX.
+
+Tic-Tac-Toe — Browser Game
+Technologies: React.js
+
+• Built an interactive Tic-Tac-Toe game in React.js using component-based architecture.
+• Implemented game-state management, turn logic, and automatic win/draw detection.
+
+Blood Finder — Web Application
+Technologies: HTML, CSS, JavaScript
+Achievement: 1st Position — Tech Yuva
+
+• Built a web app connecting users to nearby blood donors by blood group using HTML/CSS/JS.
+• Designed a responsive, user-friendly interface for fast, efficient donor discovery.
+• Implemented interactive search and filtering to quickly match suitable registered donors.
+
+TECHNICAL SKILLS
+
+Languages: C, C++, Java (Basics), JavaScript, SQL
+
+Web Development: HTML, CSS, React.js, Next.js, Node.js, TailwindCSS, REST APIs
+
+Databases: MongoDB, PostgreSQL, NeonDB, SQL
+
+Tools: Git, GitHub, VS Code, Docker
+
+Soft Skills: Team Collaboration, Problem-Solving, Communication, Adaptability, Time Management
+
+Core CS: Data Structures, Operating Systems
+
+ACHIEVEMENTS & LEADERSHIP
+
+• Won 1st Position at Tech Yuva (college tech fest) for the Blood Finder project.
+• Ranked Top 5 among 100+ teams in HackIndia Spark 1.0 Hackathon.
+• Received the Academic Excellence Award for outstanding academic performance.
